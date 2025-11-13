@@ -1,0 +1,71 @@
+[
+  {
+    "ContainingType": "Api_Presentacion.Controllers.Controlador",
+    "Method": "Actualizar_Imagen_Perfil",
+    "RelativePath": "Micro_servicio/Usuarios/Actualizar_Imagen_Perfil",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Imagen_Perfil",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      },
+      {
+        "Name": "Id_Usuario",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Api_Presentacion.Controllers.Controlador",
+    "Method": "Crear_Usuario",
+    "RelativePath": "Micro_servicio/Usuarios/Crear_Usuario",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Aplicacion.DTO.Crear_Usuario_DTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Api_Presentacion.Controllers.Controlador",
+    "Method": "Modificar_Usuario",
+    "RelativePath": "Micro_servicio/Usuarios/Modificar_Usuario",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Aplicacion.DTO.Modificar_datos_Usuario_DTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Api_Presentacion.Controllers.Controlador",
+    "Method": "Registrar_Historial_Actividad",
+    "RelativePath": "Micro_servicio/Usuarios/Registrar_Historial_Actividad",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Aplicacion.DTO.Registar_Historial_Actividad_Dto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

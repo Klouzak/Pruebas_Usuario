@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "taE0K7zg+P8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jcher\\OneDrive\\Escritorio\\Proyecto Eventos\\Usuarios\\Usuario Micro Servicio\\Usuario_Dominio\\Domain\\Dominio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jcher\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.300\\microsoft.net.sdk.compilers.toolset.9.0.300.nupkg.sha512"
+  ],
+  "logs": []
+}

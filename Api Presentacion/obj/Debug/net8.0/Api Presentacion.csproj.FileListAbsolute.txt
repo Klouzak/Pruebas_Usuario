@@ -1,0 +1,76 @@
+C:\Users\jcher\OneDrive\Escritorio\Proyecto Eventos\Usuarios\Usuario Micro Servicio\Usuario_Dominio\Api Presentacion\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\jcher\OneDrive\Escritorio\Proyecto Eventos\Usuarios\Usuario Micro Servicio\Usuario_Dominio\Api Presentacion\bin\Debug\net8.0\appsettings.json
+C:\Users\jcher\OneDrive\Escritorio\Proyecto Eventos\Usuarios\Usuario Micro Servicio\Usuario_Dominio\Api Presentacion\bin\Debug\net8.0\Api Presentacion.staticwebassets.endpoints.json
+C:\Users\jcher\OneDrive\Escritorio\Proyecto Eventos\Usuarios\Usuario Micro Servicio\Usuario_Dominio\Api Presentacion\bin\Debug\net8.0\Api Presentacion.exe
+C:\Users\jcher\OneDrive\Escritorio\Proyecto Eventos\Usuarios\Usuario Micro Servicio\Usuario_Dominio\Api Presentacion\bin\Debug\net8.0\Api Presentacion.deps.json
+C:\Users\jcher\OneDrive\Escritorio\Proyecto Eventos\Usuarios\Usuario Micro Servicio\Usuario_Dominio\Api Presentacion\bin\Debug\net8.0\Api Presentacion.runtimeconfig.json
+C:\Users\jcher\OneDrive\Escritorio\Proyecto Eventos\Usuarios\Usuario Micro Servicio\Usuario_Dominio\Api Presentacion\bin\Debug\net8.0\Api Presentacion.dll
+C:\Users\jcher\OneDrive\Escritorio\Proyecto Eventos\Usuarios\Usuario Micro Servicio\Usuario_Dominio\Api Presentacion\bin\Debug\net8.0\Api Presentacion.pdb
+C:\Users\jcher\OneDrive\Escritorio\Proyecto Eventos\Usuarios\Usuario Micro Servicio\Usuario_Dominio\Api Presentacion\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\jcher\OneDrive\Escritorio\Proyecto Eventos\Usuarios\Usuario Micro Servicio\Usuario_Dominio\Api Presentacion\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\jcher\OneDrive\Escritorio\Proyecto Eventos\Usuarios\Usuario Micro Servicio\Usuario_Dominio\Api Presentacion\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\jcher\OneDrive\Escritorio\Proyecto Eventos\Usuarios\Usuario Micro Servicio\Usuario_Dominio\Api Presentacion\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\jcher\OneDrive\Escritorio\Proyecto Eventos\Usuarios\Usuario Micro Servicio\Usuario_Dominio\Api Presentacion\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\jcher\OneDrive\Escritorio\Proyecto Eventos\Usuarios\Usuario Micro Servicio\Usuario_Dominio\Api Presentacion\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\jcher\OneDrive\Escritorio\Proyecto Eventos\Usuarios\Usuario Micro Servicio\Usuario_Dominio\Api Presentacion\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\jcher\OneDrive\Escritorio\Proyecto Eventos\Usuarios\Usuario Micro Servicio\Usuario_Dominio\Api Presentacion\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\jcher\OneDrive\Escritorio\Proyecto Eventos\Usuarios\Usuario Micro Servicio\Usuario_Dominio\Api Presentacion\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\jcher\OneDrive\Escritorio\Proyecto Eventos\Usuarios\Usuario Micro Servicio\Usuario_Dominio\Api Presentacion\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\jcher\OneDrive\Escritorio\Proyecto Eventos\Usuarios\Usuario Micro Servicio\Usuario_Dominio\Api Presentacion\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\jcher\OneDrive\Escritorio\Proyecto Eventos\Usuarios\Usuario Micro Servicio\Usuario_Dominio\Api Presentacion\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\jcher\OneDrive\Escritorio\Proyecto Eventos\Usuarios\Usuario Micro Servicio\Usuario_Dominio\Api Presentacion\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\jcher\OneDrive\Escritorio\Proyecto Eventos\Usuarios\Usuario Micro Servicio\Usuario_Dominio\Api Presentacion\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\jcher\OneDrive\Escritorio\Proyecto Eventos\Usuarios\Usuario Micro Servicio\Usuario_Dominio\Api Presentacion\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\jcher\OneDrive\Escritorio\Proyecto Eventos\Usuarios\Usuario Micro Servicio\Usuario_Dominio\Api Presentacion\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\jcher\OneDrive\Escritorio\Proyecto Eventos\Usuarios\Usuario Micro Servicio\Usuario_Dominio\Api Presentacion\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\jcher\OneDrive\Escritorio\Proyecto Eventos\Usuarios\Usuario Micro Servicio\Usuario_Dominio\Api Presentacion\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\jcher\OneDrive\Escritorio\Proyecto Eventos\Usuarios\Usuario Micro Servicio\Usuario_Dominio\Api Presentacion\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\jcher\OneDrive\Escritorio\Proyecto Eventos\Usuarios\Usuario Micro Servicio\Usuario_Dominio\Api Presentacion\bin\Debug\net8.0\Npgsql.dll
+C:\Users\jcher\OneDrive\Escritorio\Proyecto Eventos\Usuarios\Usuario Micro Servicio\Usuario_Dominio\Api Presentacion\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\jcher\OneDrive\Escritorio\Proyecto Eventos\Usuarios\Usuario Micro Servicio\Usuario_Dominio\Api Presentacion\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jcher\OneDrive\Escritorio\Proyecto Eventos\Usuarios\Usuario Micro Servicio\Usuario_Dominio\Api Presentacion\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jcher\OneDrive\Escritorio\Proyecto Eventos\Usuarios\Usuario Micro Servicio\Usuario_Dominio\Api Presentacion\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\jcher\OneDrive\Escritorio\Proyecto Eventos\Usuarios\Usuario Micro Servicio\Usuario_Dominio\Api Presentacion\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jcher\OneDrive\Escritorio\Proyecto Eventos\Usuarios\Usuario Micro Servicio\Usuario_Dominio\Api Presentacion\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\jcher\OneDrive\Escritorio\Proyecto Eventos\Usuarios\Usuario Micro Servicio\Usuario_Dominio\Api Presentacion\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\jcher\OneDrive\Escritorio\Proyecto Eventos\Usuarios\Usuario Micro Servicio\Usuario_Dominio\Api Presentacion\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\jcher\OneDrive\Escritorio\Proyecto Eventos\Usuarios\Usuario Micro Servicio\Usuario_Dominio\Api Presentacion\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\jcher\OneDrive\Escritorio\Proyecto Eventos\Usuarios\Usuario Micro Servicio\Usuario_Dominio\Api Presentacion\bin\Debug\net8.0\Dominio.dll
+C:\Users\jcher\OneDrive\Escritorio\Proyecto Eventos\Usuarios\Usuario Micro Servicio\Usuario_Dominio\Api Presentacion\bin\Debug\net8.0\Infraestructura.dll
+C:\Users\jcher\OneDrive\Escritorio\Proyecto Eventos\Usuarios\Usuario Micro Servicio\Usuario_Dominio\Api Presentacion\bin\Debug\net8.0\Dominio.pdb
+C:\Users\jcher\OneDrive\Escritorio\Proyecto Eventos\Usuarios\Usuario Micro Servicio\Usuario_Dominio\Api Presentacion\bin\Debug\net8.0\Infraestructura.pdb
+C:\Users\jcher\OneDrive\Escritorio\Proyecto Eventos\Usuarios\Usuario Micro Servicio\Usuario_Dominio\Api Presentacion\obj\Debug\net8.0\Api Presentacion.csproj.AssemblyReference.cache
+C:\Users\jcher\OneDrive\Escritorio\Proyecto Eventos\Usuarios\Usuario Micro Servicio\Usuario_Dominio\Api Presentacion\obj\Debug\net8.0\Api Presentacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jcher\OneDrive\Escritorio\Proyecto Eventos\Usuarios\Usuario Micro Servicio\Usuario_Dominio\Api Presentacion\obj\Debug\net8.0\Api Presentacion.AssemblyInfoInputs.cache
+C:\Users\jcher\OneDrive\Escritorio\Proyecto Eventos\Usuarios\Usuario Micro Servicio\Usuario_Dominio\Api Presentacion\obj\Debug\net8.0\Api Presentacion.AssemblyInfo.cs
+C:\Users\jcher\OneDrive\Escritorio\Proyecto Eventos\Usuarios\Usuario Micro Servicio\Usuario_Dominio\Api Presentacion\obj\Debug\net8.0\Api Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\jcher\OneDrive\Escritorio\Proyecto Eventos\Usuarios\Usuario Micro Servicio\Usuario_Dominio\Api Presentacion\obj\Debug\net8.0\Api Presentacion.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jcher\OneDrive\Escritorio\Proyecto Eventos\Usuarios\Usuario Micro Servicio\Usuario_Dominio\Api Presentacion\obj\Debug\net8.0\Api Presentacion.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jcher\OneDrive\Escritorio\Proyecto Eventos\Usuarios\Usuario Micro Servicio\Usuario_Dominio\Api Presentacion\obj\Debug\net8.0\scopedcss\bundle\Api Presentacion.styles.css
+C:\Users\jcher\OneDrive\Escritorio\Proyecto Eventos\Usuarios\Usuario Micro Servicio\Usuario_Dominio\Api Presentacion\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\jcher\OneDrive\Escritorio\Proyecto Eventos\Usuarios\Usuario Micro Servicio\Usuario_Dominio\Api Presentacion\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\jcher\OneDrive\Escritorio\Proyecto Eventos\Usuarios\Usuario Micro Servicio\Usuario_Dominio\Api Presentacion\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\jcher\OneDrive\Escritorio\Proyecto Eventos\Usuarios\Usuario Micro Servicio\Usuario_Dominio\Api Presentacion\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\jcher\OneDrive\Escritorio\Proyecto Eventos\Usuarios\Usuario Micro Servicio\Usuario_Dominio\Api Presentacion\obj\Debug\net8.0\Api Pres.E6012888.Up2Date
+C:\Users\jcher\OneDrive\Escritorio\Proyecto Eventos\Usuarios\Usuario Micro Servicio\Usuario_Dominio\Api Presentacion\obj\Debug\net8.0\Api Presentacion.dll
+C:\Users\jcher\OneDrive\Escritorio\Proyecto Eventos\Usuarios\Usuario Micro Servicio\Usuario_Dominio\Api Presentacion\obj\Debug\net8.0\refint\Api Presentacion.dll
+C:\Users\jcher\OneDrive\Escritorio\Proyecto Eventos\Usuarios\Usuario Micro Servicio\Usuario_Dominio\Api Presentacion\obj\Debug\net8.0\Api Presentacion.pdb
+C:\Users\jcher\OneDrive\Escritorio\Proyecto Eventos\Usuarios\Usuario Micro Servicio\Usuario_Dominio\Api Presentacion\obj\Debug\net8.0\Api Presentacion.genruntimeconfig.cache
+C:\Users\jcher\OneDrive\Escritorio\Proyecto Eventos\Usuarios\Usuario Micro Servicio\Usuario_Dominio\Api Presentacion\obj\Debug\net8.0\ref\Api Presentacion.dll
+C:\Users\jcher\OneDrive\Escritorio\Proyecto Eventos\Usuarios\Usuario Micro Servicio\Usuario_Dominio\Api Presentacion\bin\Debug\net8.0\MediatR.dll
+C:\Users\jcher\OneDrive\Escritorio\Proyecto Eventos\Usuarios\Usuario Micro Servicio\Usuario_Dominio\Api Presentacion\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Users\jcher\OneDrive\Escritorio\Proyecto Eventos\Usuarios\Usuario Micro Servicio\Usuario_Dominio\Api Presentacion\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\jcher\OneDrive\Escritorio\Proyecto Eventos\Usuarios\Usuario Micro Servicio\Usuario_Dominio\Api Presentacion\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\jcher\OneDrive\Escritorio\Proyecto Eventos\Usuarios\Usuario Micro Servicio\Usuario_Dominio\Api Presentacion\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\jcher\OneDrive\Escritorio\Proyecto Eventos\Usuarios\Usuario Micro Servicio\Usuario_Dominio\Api Presentacion\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\jcher\OneDrive\Escritorio\Proyecto Eventos\Usuarios\Usuario Micro Servicio\Usuario_Dominio\Api Presentacion\bin\Debug\net8.0\Aplicacion.dll
+C:\Users\jcher\OneDrive\Escritorio\Proyecto Eventos\Usuarios\Usuario Micro Servicio\Usuario_Dominio\Api Presentacion\bin\Debug\net8.0\Aplicacion.pdb
+C:\Users\jcher\OneDrive\Escritorio\Proyecto Eventos\Usuarios\Usuario Micro Servicio\Usuario_Dominio\Api Presentacion\bin\Debug\net8.0\MassTransit.dll
+C:\Users\jcher\OneDrive\Escritorio\Proyecto Eventos\Usuarios\Usuario Micro Servicio\Usuario_Dominio\Api Presentacion\bin\Debug\net8.0\MassTransit.Abstractions.dll
+C:\Users\jcher\OneDrive\Escritorio\Proyecto Eventos\Usuarios\Usuario Micro Servicio\Usuario_Dominio\Api Presentacion\bin\Debug\net8.0\MassTransit.RabbitMqTransport.dll
+C:\Users\jcher\OneDrive\Escritorio\Proyecto Eventos\Usuarios\Usuario Micro Servicio\Usuario_Dominio\Api Presentacion\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\jcher\OneDrive\Escritorio\Proyecto Eventos\Usuarios\Usuario Micro Servicio\Usuario_Dominio\Api Presentacion\bin\Debug\net8.0\CloudinaryDotNet.dll
+C:\Users\jcher\OneDrive\Escritorio\Proyecto Eventos\Usuarios\Usuario Micro Servicio\Usuario_Dominio\Api Presentacion\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+C:\Users\jcher\OneDrive\Escritorio\Proyecto Eventos\Usuarios\Usuario Micro Servicio\Usuario_Dominio\Api Presentacion\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\jcher\OneDrive\Escritorio\Proyecto Eventos\Usuarios\Usuario Micro Servicio\Usuario_Dominio\Api Presentacion\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\jcher\OneDrive\Escritorio\Proyecto Eventos\Usuarios\Usuario Micro Servicio\Usuario_Dominio\Api Presentacion\obj\Debug\net8.0\Api Presentacion.sourcelink.json
